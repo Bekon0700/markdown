@@ -1,6 +1,7 @@
 {
   "name": "markdown",
   "private": true,
+  "homepage": "http://codenamestorm.com",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
